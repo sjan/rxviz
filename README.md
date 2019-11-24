@@ -2,7 +2,7 @@
 
 * [Description](#description)
 * [Examples](#examples)
-  * [Basic Interval](#basic-interval)
+  * [Basic Button Click](#basic-button-click)
   * [Random error](#random-error)
   * [Higher order Observable](#higher-order-observable)
   * [Pause and resume](#pause-and-resume)
