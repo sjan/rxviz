@@ -3,7 +3,7 @@
 * [Description](#description)
 * [Examples](#examples)
   * [Basic Button Click](#basic-button-click)
-  * [Random error](#random-error)
+  * [Button Click Trigger Api](#basic-button-click-trigger-api)
   * [Higher order Observable](#higher-order-observable)
   * [Pause and resume](#pause-and-resume)
 * [How does it work?](#how-does-it-work)
