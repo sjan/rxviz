@@ -190,15 +190,15 @@ export default class extends Component {
           shareState === 'error'
             ? alertIcon
             : shareState === 'shared'
-            ? checkIcon
-            : shareIcon
+              ? checkIcon
+              : shareIcon
         }
         text={
           shareState === 'error'
             ? 'Failed'
             : shareState === 'shared'
-            ? 'Link copied'
-            : 'Share link'
+              ? 'Link copied'
+              : 'Share link'
         }
         style={{ width: 130, marginLeft: 15 }}
         onClick={this.onShare}
